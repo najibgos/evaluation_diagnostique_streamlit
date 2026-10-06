@@ -6,7 +6,7 @@
 ============================================================================
  Contenu :
    - Banque de 20 questions (QCM + Vrai/Faux) basée sur le cours
-     « Systèmes d'exploitation I » — Pr. S. EL MOUMNI (EMSI) :
+     « Systèmes d'exploitation I » — Pr. N. MOUHASSINE (EMSI) :
        Partie I   : Introduction aux systèmes d'exploitation
        Partie II  : Architecture et composants des SE
        Partie III : Gestion des ressources par un SE
