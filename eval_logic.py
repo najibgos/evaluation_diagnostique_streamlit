@@ -383,7 +383,7 @@ class RapportPDF(FPDF):
             self.cell(0, 10, _l("Systèmes d'exploitation I"), align="C",
                       fill=True, new_x="LMARGIN", new_y="NEXT")
             self.set_font("Helvetica", "I", 9)
-            self.cell(0, 8, _l("Cours de Pr. S. EL MOUMNI — EMSI"), align="C",
+            self.cell(0, 8, _l("Cours de Pr.N.MOUHASSINE — EMSI"), align="C",
                       fill=True, new_x="LMARGIN", new_y="NEXT")
             self.ln(6)
             self.set_text_color(0, 0, 0)
