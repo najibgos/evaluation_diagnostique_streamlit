@@ -4,7 +4,7 @@
  ÉVALUATION DIAGNOSTIQUE — SYSTÈMES D'EXPLOITATION I
  Application Streamlit avec correction automatique et rapport PDF
 ============================================================================
- Contenu du cours : « Systèmes d'exploitation I » — Pr. S. EL MOUMNI (EMSI)
+ Contenu du cours : « Systèmes d'exploitation I » — Pr. N.MOUHASSINE (EMSI)
 
  Fonctionnement :
    1. L'étudiant saisit son nom et sa classe.
@@ -105,7 +105,7 @@ with st.sidebar:
     st.markdown(
         """
         **Module :** Systèmes d'exploitation I
-        **Enseignant :** Pr. S. EL MOUMNI (EMSI)
+        **Enseignant :** Pr. N.MOUHASSINE (EMSI)
 
         ---
         - **20 questions** (QCM et Vrai/Faux)
@@ -131,7 +131,7 @@ with st.sidebar:
 # ---------------------------------------------------------------------------
 st.title("🖥️ Évaluation Diagnostique")
 st.markdown("### Systèmes d'exploitation I")
-st.caption("Basée sur le cours de Pr. S. EL MOUMNI — EMSI")
+st.caption(" Pr. N. MOUHASSINE — EMSI")
 
 # ===========================================================================
 # PHASE 1 — ACCUEIL : saisie du nom et de la classe
